@@ -1,2 +1,8 @@
-# PHP-MySQL-simple_login_form
-Php and MySQL login page with bootstrap
+# PHP with MySQL; a simple login form
+made with bootstrap
+___
+
+This is a fully functional login form styled with bootstrap 3. 
+
+Free to use!
+
