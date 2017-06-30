@@ -1,4 +1,4 @@
-# PHP with MySQL; a simple login form
+# PHP with MySQL: a simple login form
 made with bootstrap
 ___
 
